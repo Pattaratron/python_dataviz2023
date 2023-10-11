@@ -1,5 +1,5 @@
 # SC663401 Basic Programming for Data Science and Data Visualization
-> นายภัทรธร ก้อนมณี 643020513-9 Pattaratron Gonmanee 
+> นายภัทรธร ก้อนมณี 643020513-9 Pattaratron Gonmanee กลุ่ม มิตรภาพลาบก้อย
 ---------------------------------
 ## Grading
 - **A** top 10-15 B+ ถึง F ตามเกณฑ์
