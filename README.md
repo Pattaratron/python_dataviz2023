@@ -19,3 +19,12 @@
 - 6.นายศตวรรษ มูลสันเทียะ 643021273-8
 ## Dashboardกลุ่ม มิตรภาพลาบก้อย
 https://lookerstudio.google.com/reporting/6d724af8-746c-4c9a-a8ed-7c850d32ceb3
+## สมาชิกในกลุ่ม Final Exam
+- 1. นายเศรษฐา สุวินชัย 633020361-5 หน้าที่ Dashboard
+- 2. นางสาวพิมพิกา ยอดศรี 643020511-3 หน้าที่ Dashboard
+- 3. นายภัทรธร ก้อนมณี 643020513-9 หน้าที่ Coding
+- 4. นายรัชชานนท์ ทิพย์พิมานพร 643020515-5 หน้าที่ Coding
+- 5. นางสาวรัตชฎากร นามวงศ์ 643020517-1 หน้าที่ Dashboard
+- 6. นางสาวสิรภัทร ไชยมาตย์ 643020523-6 หน้าที่ Dashboardv
+## Link DashBoard Final Exam
+https://lookerstudio.google.com/reporting/1635f258-3c79-44a2-b10a-331c03d5657d
